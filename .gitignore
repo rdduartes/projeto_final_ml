@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+
+# Local runtime cache (not required for reproducibility)
+data/.cache/
+data/sklearn_cache/
